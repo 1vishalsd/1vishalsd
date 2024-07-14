@@ -14,10 +14,15 @@
 - ⚡ Fun fact **Did you know? When I'm not coding, I love exploring the great outdoors and going on hiking adventures! 🌲🚶‍♂️**
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kumar-779054260)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1vishalsd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilearnvk@gmail.com)
-<p align="left">
+  <a href="https://linkedin.com/in/vishal-kumar-779054260" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://twitter.com/1vishalsd" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+        <a href="mailto:youremail@example.com" target="_blank">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
 
 </p>
 

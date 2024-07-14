@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal-kumar-779054260" target="blank"><img align="center" src="https://raw.githubusercontent.com/1vishalsd/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kumar-779054260" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

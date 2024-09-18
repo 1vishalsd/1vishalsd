@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">I'm a Full Stack Developer as wel as B.Tech student in Computer Science with a passion for creating dynamic and responsive web applications.</h3>
+<h3 align="center">I'm a Full Stack Developer as well as B.Tech student in Computer Science with a passion for creating dynamic and responsive web applications.</h3>
 
 
 - 🌱 I’m currently learning **TypeScript**
